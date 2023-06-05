@@ -156,7 +156,9 @@ li a {
     Vertical-align: Center;
     color: #dbdbdb;
     padding-bottom: 64px;
-    margin-right: -50px;
+    margin-right: -75px;
+    margin-left: -65px;
+    text-align: justify;
 }
 
 .join-btn {
@@ -623,6 +625,7 @@ input {
         text-align: center;
         color: #e8e8e8;
         margin-right: -10px;
+        margin-left: -10px;
     }
 
     .para1-network {
