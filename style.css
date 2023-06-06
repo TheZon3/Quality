@@ -175,6 +175,7 @@ li a {
     border-radius: 8px;
     border: none;
     margin-bottom: 117px;
+    text-decoration: none;
 }
 
 .join-btn2 {
@@ -191,6 +192,7 @@ li a {
     border-radius: 8px;
     border: none;
     margin-bottom: 117px;
+    text-decoration: none;
 }
 
 .right {
@@ -639,7 +641,7 @@ input {
         display: flex;
         align-items: center;
         text-align: center;
-        color: #666666;
+        color: #f1f0f0;
         margin-top: 20px;
         padding-bottom: 30px;
     }
